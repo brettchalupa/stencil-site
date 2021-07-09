@@ -40,7 +40,7 @@ export const config: Config = {
 
 # Custom Docs Data Model
 
-The generated docs JSON data will in the type of `JsonDocs` which consists of main `components` array which consists of components that stencil core found and meta information such as `timestamp` and `compiler`
+The generated docs JSON data will be in the type of `JsonDocs` which consists of main `components` array which consists of components that stencil core found and meta information such as `timestamp` and `compiler`
 
 ## JsonDocs
 
